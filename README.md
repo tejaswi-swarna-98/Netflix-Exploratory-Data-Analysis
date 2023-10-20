@@ -13,7 +13,7 @@ generate useful business insights
 
 ## **Dataset**
 This dataset is a publicly available dataset taken from kaggle. 
-You can download this from here: Dataset: https://www.kaggle.com/datasets/shivamb/netflix-shows
+You can download this from here: [Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## **Business Problem**
 Analyse the data and generate insights that could help Netflix in deciding which type of 
