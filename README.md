@@ -6,7 +6,7 @@ in different countries.
 This project is inclined towards Exploratory Data Anlaysis, which involves univariate, bivariate and multi-variate analyses that are used to
 generate useful business insights
 
-## **Structure of Analysis** 
+## **Project Flow** 
   1. Data Pre-Processing
   2. Exploratory Data Analysis
   3. Conclusions and Recommendations
